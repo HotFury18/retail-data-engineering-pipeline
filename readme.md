@@ -20,7 +20,7 @@ Raw data is rarely ready for reporting. This pipeline applies several realistic 
 4. **Payout Lag Application:** Automatically applies a 14-day processing lag to commission payout dates for financial accuracy.
 
 ## 📊 The Final Dashboard
-*Screenshot 2026-03-09 171922.png*
+![Power BI Dashboard](dashboard.png)
 
 ## 🚀 How to Run This Project Locally
 1. Start the Azurite emulator on port 10000.
